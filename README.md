@@ -5,7 +5,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdshwin555&label=Profile%20views&color=0e75b6&style=flat" height="50px" width="250px"/> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdshwin555&label=Followers&color=d41212&style=flat" height="40px"/> </p>
 <h1 align="left" href="https://github.com/mdshwin555/my_imdb">🚌 Karagi</h1>
-<p><img align="center" href="" target="blank"><img src="https://github.com/mdshwin555/karagi/assets/116727137/50a1e37c-6dbb-405d-81fa-51a6555433d8.jpg
+<p><img align="center" href="" target="blank"><img src="![Screenshot (85)](https://github.com/mdshwin555/karagi/assets/116727137/37ae24ed-a010-47b6-baa5-a49f4038f14a)
+
 "  /></p>
 <p><img align="center" href="" target="blank"><img src="https://user-images.githubusercontent.com/116727137/236634852-88bbe5f8-052e-43a5-8ce7-71a10bf63995.jpg"  /></p>
 
