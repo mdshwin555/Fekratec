@@ -6,9 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdshwin555&label=Followers&color=d41212&style=flat" height="40px"/> </p>
 <h1 align="left" href="https://github.com/mdshwin555/my_imdb">🚌 Karagi</h1>
 <p><img align="center" href="" target="blank"><img src="https://github.com/mdshwin555/karagi/assets/116727137/37ae24ed-a010-47b6-baa5-a49f4038f14a"  /></p>
-<p><img align="center" href="" target="blank"><img src="https://github.com/mdshwin555/karagi/assets/116727137/a288ac69-7268-4617-afee-2c793728aad9
-
-                                                "  /></p>
+<p><img align="center" href="" target="blank"><img src="https://github.com/mdshwin555/karagi/assets/116727137/a288ac69-7268-4617-afee-2c793728aad9"  /></p>
 
 
 <h3 align="left">Connect with me:</h3>
