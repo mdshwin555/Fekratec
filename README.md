@@ -6,6 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdshwin555&label=Followers&color=d41212&style=flat" height="40px"/> </p>
 <h1 align="left" href="https://github.com/mdshwin555/my_imdb">💡📚 Fekratec</h1>
 <p><img align="center" href="" target="blank"><img src="https://github.com/mdshwin555/karagi/assets/116727137/b6fadc2d-6251-486d-baab-594b6acada22"  /></p>
+<p><img align="center" href="" target="blank"><img src="https://github.com/mdshwin555/karagi/assets/116727137/ffd1c4e1-3614-411b-a2cd-15ee9b020757"  /></p>
 
 
 
