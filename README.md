@@ -4,9 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdshwin555&label=Profile%20views&color=0e75b6&style=flat" height="50px" width="250px"/> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdshwin555&label=Followers&color=d41212&style=flat" height="40px"/> </p>
-<h1 align="left" href="https://github.com/mdshwin555/my_imdb">🤸🏻‍♂️ Workout AI</h1>
-<p><img align="center" href="" target="blank"><img src="https://github.com/mdshwin555/karagi/assets/116727137/e5e8babc-ce8b-455c-a34c-d05a997f5bac"  /></p>
-<p><img align="center" href="" target="blank"><img src="https://github.com/mdshwin555/karagi/assets/116727137/a288ac69-7268-4617-afee-2c793728aad9"  /></p>
+<h1 align="left" href="https://github.com/mdshwin555/my_imdb">💡📚 Fekratec</h1>
+<p><img align="center" href="" target="blank"><img src="https://github.com/mdshwin555/karagi/assets/116727137/b6fadc2d-6251-486d-baab-594b6acada22"  /></p>
+
 
 
 <h3 align="left">Connect with me:</h3>
